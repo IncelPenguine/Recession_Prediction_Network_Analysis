@@ -1,5 +1,7 @@
 # Predicting Economic Recessions using Leading Indicators and Network Analysis
 
+### 💔 [View the Live Interactive Report](https://incelpenguine.github.io/Recession_Prediction_Network_Analysis/)
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Key Features](#key-features)
